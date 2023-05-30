@@ -1,2 +1,4 @@
-# kn_shanghaiTech
-Codes for understanding mat file and hdf file from Shanghaitech dataset
+# Crowd counting stuffs
+Codes for crowd counting stuff
+
+Shanghaitech - to understand how to read the mat files and hdf5 files
